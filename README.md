@@ -20,8 +20,9 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Software Developer Intern at [cppsecrets.com](https://cppsecrets.com/).
+- 🔭 I’m currently working on [Matrix](https://github.com/mlcpp/Matrix), a linear algebra library for C++.
 - 🌱 I’m currently learning Deep Learning and Tensorflow.
+- 👯 I’m a co-founder of the open source organization [mlcpp](https://github.com/mlcpp).
 - 💬 Ask me about Machine Learning, Python and Data Science.
 - 📫 How to reach me: aniketsharma00411@gmail.com
 </p><h2 align='center'>Connect with me  📫 </h2>
