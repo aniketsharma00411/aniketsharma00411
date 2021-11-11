@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-</div>
+</div> -->
 <h1 align='center'>Hey 👋, This is Aniket Sharma</h1>
 <p align = 'center'> 
 <h2 align='center'>About Me🤓</h2>
@@ -25,6 +25,7 @@
 - 🌱 I’m currently learning Deep Learning and Keras.
 - 👯 I’m a co-founder of the open source organization [mlcpp](https://github.com/mlcpp).
 - 💬 Ask me about Machine Learning, Python and Data Science.
+- 🌐 Visit my website: [aniketsharma.net](https://www.aniketsharma.net/)
 - 📫 How to reach me: aniketsharma00411@gmail.com
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
@@ -40,7 +41,7 @@
 
 &emsp;
 
- <p align="center">
+<p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -52,6 +53,9 @@
 
 &emsp;
 
-<img align="right" height="250" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<!-- <img align="right" height="250" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-![Aniket Sharma's Github Stats](https://github-readme-stats.vercel.app/api?username=aniketsharma00411&theme=vue&show_icons=true)
+![Aniket Sharma's Github Stats](https://github-readme-stats.vercel.app/api?username=aniketsharma00411&count_private=true&show_icons=true&include_all_commits=true&theme=calm)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsharma00411&theme=calm">
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsharma00411&theme=calm) -->
