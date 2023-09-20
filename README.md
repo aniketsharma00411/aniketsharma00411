@@ -4,7 +4,7 @@
 <h1 align='center'>Hey 👋, This is Aniket Sharma</h1>
 <p align = 'center'> 
 <h2 align='center'>About Me🤓</h2>
-<p align='center'>I am a final year B.Tech. Computer Science student at IIIT Gwalior with interest in Artificial Intelligence, Machine Learning and Data Science. 
+<p align='center'>I am a M.Sc. Computing Science (Thesis) student at the University of Alberta.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsharma00411" alt="aniketsharma00411" /> </p>
 
 ### 😉 About
@@ -20,15 +20,15 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on working on Fairness Verification and Mitigation Techniques on Artificial Intelligence in Education (AIEd) Algorithms as a Research Intern at the University of Alberta.
-- ⚡ I am also a part of Computational Intelligence and Data Mining Research Lab (CIDMR Lab) at IIIT Gwalior.
+<!--- 🔭 I’m currently working on working on Fairness Verification and Mitigation Techniques on Artificial Intelligence in Education (AIEd) Algorithms.-->
+- ⚡ I am a part of TRAM Lab at the University of Alberta.
 - 🤔 I’m looking to collaborate on Kaggle and other AI competitions.
-- 👯 I have recently interned at Google as an Application Engineer and at Sprink as an Artificial Intelligence intern.
+- 🌱 I’m also a part of Alberta Machine Intelligence Institute (amii) and (Computing Science Graduate Students' Association) CSGSA @ UAlberta.
+- 👯 I have interned at Google as an Application Engineer, at the University of Alberta as a Research Intern and at Sprink as an Artificial Intelligence intern.
 - 💬 Ask me about Artificial Intelligence, Machine Learning, Python and Data Science.
 - 🌐 Visit my website: [aniketsharma.net](https://www.aniketsharma.net/)
 - 📫 How to reach me: aniketsharma00411@gmail.com
 - 🤔 Read my articles at [aniketsharma.net/articles](https://www.aniketsharma.net/articles/).
-<!-- - 🌱 I’m currently learning Deep Learning and Keras. -->
 
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
